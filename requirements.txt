@@ -1,0 +1,6 @@
+torch
+torchvision
+pygame
+numpy>=2.0.0
+matplotlib
+tqdm
